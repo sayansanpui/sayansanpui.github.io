@@ -92450,7 +92450,7 @@ return B.d.b5(r,s)},
 $S:563}
 A.OY.prototype={
 F(a){var s=null,r=A.tl(A.aJ1(s,s,s,B.j,s,s,new A.db(s,s,s,s,s,B.f,s,s,s),s,s,s,s,s,s,A.bd(s,s,B.f,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s,B.j,B.j,A.anS(A.bd(s,s,B.f,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),A.bd(s,s,B.f,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s,s,s,s,s,s,s,s,s,s,s),!1)
-return new A.C2(A.aw(["/",new A.agD(),"/splash",new A.agE(),"/faculty/login",new A.agF(),"/faculty/register",new A.agI(),"/faculty/home",new A.agJ(),"/profile",new A.agK(),"/faculty/classroom",new A.agL(),"/faculty/report",new A.agM(),"/faculty/generatereport",new A.agN(),"/faculty/create/classroom",new A.agO(),"/faculty/create/takeattendance",new A.agP(),"/faculty/classroom/attendance",new A.agG(),"/faculty/test/generatereport",new A.agH()],t.N,t.Ab),"/splash","Flutter Demo",r,!1,s)}}
+return new A.C2(A.aw(["/",new A.agD(),"/splash",new A.agE(),"/faculty/login",new A.agF(),"/faculty/register",new A.agI(),"/faculty/home",new A.agJ(),"/profile",new A.agK(),"/faculty/classroom",new A.agL(),"/faculty/report",new A.agM(),"/faculty/generatereport",new A.agN(),"/faculty/create/classroom",new A.agO(),"/faculty/create/takeattendance",new A.agP(),"/faculty/classroom/attendance",new A.agG(),"/faculty/test/generatereport",new A.agH()],t.N,t.Ab),"/splash","AttendWise",r,!1,s)}}
 A.agD.prototype={
 $1(a){return new A.qL(null)},
 $S:564}

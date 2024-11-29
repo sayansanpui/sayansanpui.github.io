@@ -1,11 +1,11 @@
 {
-    "name": "my_app",
-    "short_name": "my_app",
+    "name": "AttendWise",
+    "short_name": "AttendWise",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "AttendWise is a app designed to efficiently manage attendance for schools, colleges, and offices.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
